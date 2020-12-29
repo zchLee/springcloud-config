@@ -1,3 +1,3 @@
 # springcloud-config
-server:
-  port: 6666
+config:
+  info: 6666
